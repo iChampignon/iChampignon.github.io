@@ -1,0 +1,18 @@
+[
+ {
+  "username": "ichampignon",
+  "name": "Champignon",
+  "userimg": "https://avatars.githubusercontent.com/u/67729802?v=4",
+  "sort": "star",
+  "order": "desc",
+  "includeFork": true,
+  "theme": "dark.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
+ }
+]
